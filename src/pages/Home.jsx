@@ -13,7 +13,7 @@ import {
   Zap,
 } from 'lucide-react';
 import HomeImage from '../assets/Content.svg';
-import BoltShift from '../assets/BoltShift.svg';
+import BoltShift from '../assets/Boltshift.svg';
 import FeatherDev from '../assets/FeatherDev.svg';
 import GlobalBank from '../assets/GlobalBank.svg';
 import LightBox from '../assets/LightBox.svg';
